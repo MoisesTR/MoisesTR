@@ -2,5 +2,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesTR&layout=compact)](https://github.com/MoisesTR/github-readme-stats)
-
-[![Moises' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoisesTR)](https://github.com/MoisesTR/github-readme-stats)
